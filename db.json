@@ -5,5 +5,11 @@
     { "id": 3, "name": "Luke", "detail": "light-side" },
     { "id": 4, "name": "Leia", "detail": "light-side" },
     { "id": 5, "name": "Snoke", "detail": "dark-side" }
+  ],
+  "users": [
+    {"id": 1, "name": "Peter", "Birthdate": "12-12-1980", "department": "Photo"},
+    {"id": 2, "name": "Bruce", "Birthdate": "13-01-1981", "department": "Scientific"},
+    {"id": 3, "name": "Toni", "Birthdate": "14-02-1982", "department": "Weapons"},
+    {"id": 4, "name": "Clark", "Birthdate": "15-03-1983", "department": "News"}
   ]
 }
