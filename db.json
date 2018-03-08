@@ -1,9 +1,9 @@
 {
   "profiles": [
-    { "id": 1, "name": "Vader", "side": "dark" },
-    { "id": 2, "name": "ObiVan", "side": "light" },
-    { "id": 3, "name": "Luke", "side": "light" },
-    { "id": 4, "name": "Leia", "side": "light" },
-    { "id": 5, "name": "Snoke", "side": "dark" }
+    { "id": 1, "name": "Vader", "detail": "dark-side" },
+    { "id": 2, "name": "ObiVan", "detail": "light-side" },
+    { "id": 3, "name": "Luke", "detail": "light-side" },
+    { "id": 4, "name": "Leia", "detail": "light-side" },
+    { "id": 5, "name": "Snoke", "detail": "dark-side" }
   ]
 }
