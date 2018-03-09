@@ -7,9 +7,9 @@
     { "id": 5, "name": "Snoke", "detail": "dark-side" }
   ],
   "heroes": [
-    {"id": 1, "name": "Peter", "Birthdate": "12-12-1980", "department": "Photo"},
-    {"id": 2, "name": "Bruce", "Birthdate": "13-01-1981", "department": "Scientific"},
-    {"id": 3, "name": "Toni", "Birthdate": "14-02-1982", "department": "Weapons"},
+    {"id": 1, "name": "Peter Parker", "Birthdate": "12-12-1980", "department": "Photo"},
+    {"id": 2, "name": "Bruce Wayne", "Birthdate": "13-01-1981", "department": "Scientific"},
+    {"id": 3, "name": "Toni Stark", "Birthdate": "14-02-1982", "department": "Weapons"},
     {"id": 4, "name": "Kal-El", "Birthdate": "15-03-1983", "department": "News"}
   ],
   "heroDetails": [
