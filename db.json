@@ -1,4 +1,10 @@
 {
+  "employeeList": [
+    { "name": "Marc Marquez", "age": 25, "position": "mensajero", "salary": 1000 },
+    { "name": "Toni Stark", "age": 42, "position": "junior Developer", "salary": 1200 },
+    { "name": "Clark Kent", "age": 28, "position": "community Manager", "salary": 1200 },
+    { "name": "Natalia Romanova", "age": 30, "position": "recepcionista", "salary": 1200 }
+  ],
   "starWars": [
     { "id": 1, "name": "Vader", "detail": "dark-side" },
     { "id": 2, "name": "ObiVan", "detail": "light-side" },
